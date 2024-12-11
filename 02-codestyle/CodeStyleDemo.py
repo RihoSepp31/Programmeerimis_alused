@@ -21,4 +21,4 @@ Add two parameters together.
 
 def start_program():
     """Start the demo program."""
-    combine(a: "The output is called", b: "'Stack Trace'")
+    #combine(a: "The output is called", b: "'Stack Trace'")
