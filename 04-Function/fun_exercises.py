@@ -38,12 +38,3 @@ def sum_numbers(a:int, b:int) -> int:
 def usd_to_eur(usd:float) -> float:
     return usd * 0.81
 
-if __name__ == "__main__":
-    func()
-    my_name_is("Riho")
-    my_name_is("Thor")
-    print(sum_six(1)) # --> 7
-    print(sum_six(6)) # --> 12
-    print(sum_numbers(5, 5)) # --10
-    print(sum_numbers(0, 25)) # -->
-    print(usd_to_eur(100)) # --> 80
